@@ -3,3 +3,5 @@ Esto es un ensayo de git con sus configuraciones
 este es el tercer archivo modificado
 
 ver la tercera linea en historia
+
+hoy soy un pro en todo lo que me enfoco
